@@ -6,7 +6,7 @@ This repository contains the necessary files for you to use whilst following alo
 
 ## Table of contents
 
-- [What you will `git` to learn](#What-you-will-`git`-to-learn)
+- [What you will `git` to learn](#What-you-will-git-to-learn)
 - [What you need to start learning](#What-you-need-to-start-learning)
 - [License and copyright](#License-and-copyright)
 
