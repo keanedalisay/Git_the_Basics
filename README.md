@@ -27,8 +27,13 @@ This workshop will also provide an overview on:
 
 1. Your own laptop/notebook computer.
 2. You must have Bash and Git installed on your computer.
-   - _For Windows_: You can download Git (includes Bash in the package) through this link: https://git-scm.com/downloads
+
+   - _For Windows_: You can download Git (includes Bash in the package) through this link: https://git-scm.com/downloads.
+
+     - Alternatively, you might want to use Windows Subsystem for Linux (WSL). Watch this video to know how: https://www.youtube.com/watch?v=xzgwDbe7foQ.
+
    - _For MacOS and Linux_: Bash comes pre-installed. To install Git, either use the link above or type in the command line: `sudo apt install git`
+
 3. Your own Github account.
 4. Basic programming knowledge (i.e. variables, functions, conditional statements, loops, input/output).
 5. A code editor with an integrated command line
