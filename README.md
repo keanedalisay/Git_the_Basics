@@ -35,7 +35,7 @@ This workshop will also provide an overview on:
    - _For MacOS and Linux_: Bash comes pre-installed. To install Git, either use the link above or type in the command line: `sudo apt install git`
 
 3. Your own Github account.
-4. Basic programming knowledge (i.e. variables, functions, conditional statements, loops, input/output).
+4. Basic programming knowledge with Python (i.e. variables, functions, conditional statements, loops, input/output).
 5. A code editor with an integrated command line
    or IDE (Integrated Development Envirnment).
    - Code editor examples are Sublime Text, Visual Studio Code, and Vim.
