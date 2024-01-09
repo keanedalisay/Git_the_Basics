@@ -8,4 +8,4 @@ Remove everything except the python folder.
 python/
 ```
 
-You should have a blank state. _Well done completing the exercises_.
+You should have a blank state. _Well done completing the exercises_. 🎉
